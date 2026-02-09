@@ -84,35 +84,5 @@ data = pd.read_csv('datasets/Titanic-Dataset.csv')
 
 ---
 
-### **3️⃣ Data Preprocessing**
 
-### ✔ **Handling Missing Values**
-
-- **Age** → Filled using mean / median  
-- **Cabin** → Dropped or filled  
-- **Embarked** → Filled using mode  
-
----
-
-### ✔ **Feature Encoding**
-
-- **Sex** → Converted to numeric  
-- **Embarked** → Label Encoding  
-
----
-
-## 4️⃣ **Exploratory Data Analysis (EDA)**
-
-Visualization used to understand patterns:
-
-- Survival count  
-- Survival by Gender  
-- Survival by Class  
-- Age distribution  
-
-### **Example**
-
-```python
-import seaborn as sns
-sns.countplot(x='Survived', data=data)
 
