@@ -63,26 +63,6 @@ Dataset is taken from **Kaggle Titanic Dataset**.
 
 ---
 
-## 📂 **Project Workflow**
-
----
-
-### **1️⃣ Business Understanding**
-- Understand Titanic disaster context  
-- Define prediction goal  
-- Identify important passenger attributes  
-
----
-
-### **2️⃣ Data Collection**
-
-Dataset loaded using Pandas:
-
-```python
-import pandas as pd
-data = pd.read_csv('datasets/Titanic-Dataset.csv')
-
----
 
 
 
