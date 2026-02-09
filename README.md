@@ -16,11 +16,6 @@ model building using multiple classification algorithms.
 -   Usage
 -   Model Performance
 -   Machine Learning Workflow
--   Contributing
--   Dependencies
--   License
--   Contact
-
 
 ## 📖 Overview
 
