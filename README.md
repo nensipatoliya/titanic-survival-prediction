@@ -74,8 +74,6 @@ The project includes:
     ├── LICENSE
     
 
-------------------------------------------------------------------------
-
 ## ⚙️ Installation
 
 ### Step 1 --- Clone Repository
@@ -83,7 +81,6 @@ The project includes:
     git clone https://github.com/nensipatoliya/Titanic-Survival-Prediction.git
     cd Titanic-Survival-Prediction
 
-------------------------------------------------------------------------
 
 ### Step 2 --- Create Virtual Environment (Optional but Recommended)
 
@@ -97,13 +94,11 @@ Windows
     python -m venv venv
     venv\Scripts\activate
 
-------------------------------------------------------------------------
 
 ### Step 3 --- Install Dependencies
 
     pip install -r requirements.txt
-
-------------------------------------------------------------------------
+    
 
 ## ▶️ Usage
 
@@ -117,7 +112,6 @@ Open:
 
 Run all cells step by step.
 
-------------------------------------------------------------------------
 
 ## 📊 Model Performance
 
@@ -129,7 +123,6 @@ Run all cells step by step.
   Extra Trees           ~81%
   XGBoost               ~83%
 
-------------------------------------------------------------------------
 
 ## 🧠 Machine Learning Workflow
 
@@ -140,60 +133,5 @@ Run all cells step by step.
 5.  Model Training
 6.  Model Evaluation
 7.  Prediction Generation
-
-------------------------------------------------------------------------
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-Steps: 1. Fork the repository
-2. Create a new branch
-3. Make changes
-4. Submit Pull Request
-
-------------------------------------------------------------------------
-
-## 📦 Dependencies
-
-Main libraries used:
-
--   numpy
--   pandas
--   matplotlib
--   seaborn
--   scikit-learn
--   xgboost
--   jupyter
-
-Install using:
-
-    pip install -r requirements.txt
-
-------------------------------------------------------------------------
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
-------------------------------------------------------------------------
-
-## 📬 Contact
-
-Email: nensipatoliya20@gmail.com
-GitHub: https://github.com/nensi
-LinkedIn: https://linkedin.com/in/nensipatoliya
-
-------------------------------------------------------------------------
-
-## ⭐ Support
-
-If you like this project:
-
-Star this repository\
-Fork it\
-Share with others
-
-------------------------------------------------------------------------
 
 **Thank You for Visiting! 🚢**
