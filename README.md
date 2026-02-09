@@ -6,23 +6,21 @@ demonstrates the complete Machine Learning workflow including data
 cleaning, feature engineering, exploratory data analysis (EDA), and
 model building using multiple classification algorithms.
 
-------------------------------------------------------------------------
 
 ## 📌 Table of Contents
 
--   Overview\
--   Features\
--   Project Structure\
--   Installation\
--   Usage\
--   Model Performance\
--   Machine Learning Workflow\
--   Contributing\
--   Dependencies\
--   License\
+-   Overview
+-   Features
+-   Project Structure
+-   Installation
+-   Usage
+-   Model Performance
+-   Machine Learning Workflow
+-   Contributing
+-   Dependencies
+-   License
 -   Contact
 
-------------------------------------------------------------------------
 
 ## 📖 Overview
 
@@ -33,53 +31,48 @@ more.
 
 The project includes:
 
--   Data preprocessing\
--   Missing value handling\
--   Feature engineering\
--   Exploratory Data Analysis (EDA)\
--   Model training and comparison\
+-   Data preprocessing
+-   Missing value handling
+-   Feature engineering
+-   Exploratory Data Analysis (EDA)
+-   Model training and comparison
 -   Final prediction generation
 
 ### Models Used
 
--   Logistic Regression\
--   Decision Tree\
--   Random Forest\
--   Extra Trees Classifier\
+-   Logistic Regression
+-   Decision Tree
+-   Random Forest
+-   Extra Trees Classifier
 -   XGBoost
 
-**Best Model:** Random Forest\
-**Accuracy Achieved:** \~82% -- 85%
+**Best Model:** Random Forest
+**Accuracy Achieved:** ~82% -- 85%
 
-------------------------------------------------------------------------
 
 ## ✨ Features
 
--   In-depth Exploratory Data Analysis (EDA)\
--   Data Cleaning & Missing Value Imputation\
--   Feature Engineering\
--   Multiple Model Training & Comparison\
--   Hyperparameter Tuning\
--   Prediction on Test Dataset\
+-   In-depth Exploratory Data Analysis (EDA)
+-   Data Cleaning & Missing Value Imputation
+-   Feature Engineering
+-   Multiple Model Training & Comparison
+-   Hyperparameter Tuning
+-   Prediction on Test Dataset
 -   Result Export to CSV
 
-------------------------------------------------------------------------
 
 ## 📂 Project Structure
 
     Titanic-Survival-Prediction/
     │
-    ├── Datasets/
-    │   ├── Titanic-Dataset.csv
+    ├── Titanic-Dataset.csv
     │
-    ├── Notebook/
-    │   ├── Titanic_Survival_Prediction.ipynb
+    |__Titanic_Survival_Prediction.ipynb
     │
     ├── requirements.txt
     ├── README.md
     ├── LICENSE
-    ├── Contributing.md
-    └── titanic-survival-prediction-results.csv
+    
 
 ------------------------------------------------------------------------
 
@@ -87,7 +80,7 @@ The project includes:
 
 ### Step 1 --- Clone Repository
 
-    git clone https://github.com/YOUR_USERNAME/Titanic-Survival-Prediction.git
+    git clone https://github.com/nensipatoliya/Titanic-Survival-Prediction.git
     cd Titanic-Survival-Prediction
 
 ------------------------------------------------------------------------
@@ -130,22 +123,22 @@ Run all cells step by step.
 
   Model                 Accuracy
   --------------------- -------------
-  Logistic Regression   \~78%
-  Decision Tree         \~79%
-  Random Forest         ⭐ \~82-85%
-  Extra Trees           \~81%
-  XGBoost               \~83%
+  Logistic Regression   ~78%
+  Decision Tree         ~79%
+  Random Forest         ⭐ ~82-85%
+  Extra Trees           ~81%
+  XGBoost               ~83%
 
 ------------------------------------------------------------------------
 
 ## 🧠 Machine Learning Workflow
 
-1.  Data Collection\
-2.  Data Cleaning\
-3.  Exploratory Data Analysis\
-4.  Feature Engineering\
-5.  Model Training\
-6.  Model Evaluation\
+1.  Data Collection
+2.  Data Cleaning
+3.  Exploratory Data Analysis
+4.  Feature Engineering
+5.  Model Training
+6.  Model Evaluation
 7.  Prediction Generation
 
 ------------------------------------------------------------------------
@@ -154,9 +147,9 @@ Run all cells step by step.
 
 Contributions are welcome!
 
-Steps: 1. Fork the repository\
-2. Create a new branch\
-3. Make changes\
+Steps: 1. Fork the repository
+2. Create a new branch
+3. Make changes
 4. Submit Pull Request
 
 ------------------------------------------------------------------------
@@ -165,12 +158,12 @@ Steps: 1. Fork the repository\
 
 Main libraries used:
 
--   numpy\
--   pandas\
--   matplotlib\
--   seaborn\
--   scikit-learn\
--   xgboost\
+-   numpy
+-   pandas
+-   matplotlib
+-   seaborn
+-   scikit-learn
+-   xgboost
 -   jupyter
 
 Install using:
@@ -187,9 +180,9 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-Email: your_email@gmail.com\
-GitHub: https://github.com/YOUR_USERNAME\
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+Email: nensipatoliya20@gmail.com
+GitHub: https://github.com/nensi
+LinkedIn: https://linkedin.com/in/nensipatoliya
 
 ------------------------------------------------------------------------
 
